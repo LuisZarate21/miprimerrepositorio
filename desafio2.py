@@ -1,4 +1,6 @@
 def relacion(a,b):
+
+	print("Se inicio el archivo")
 	if a>b:
 		return a
 	elif a<b:
